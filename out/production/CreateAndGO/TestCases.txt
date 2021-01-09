@@ -1,0 +1,205 @@
+Enter a command (Type help for details):
+create 1 1
+Input a name for the new piece:
+snail
+Input a colour for the new piece:
+green
+Created new game piece.
+Enter a command (Type help for details):
+print
+-	-	-	-	-	-	-	-	
+-	snailgreenS-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+Enter a command (Type help for details):
+move 1 1 left
+Enter a command (Type help for details):
+print
+-	-	-	-	-	-	-	-	
+snailgreenS-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+Enter a command (Type help for details):
+move 1 0 right
+Enter a command (Type help for details):
+print
+-	-	-	-	-	-	-	-	
+-	snailgreenS-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+Enter a command (Type help for details):
+create 4 4 fast
+Input a name for the new piece:
+cheetah
+Input a colour for the new piece:
+yellow
+Created new game piece.
+Enter a command (Type help for details):
+print
+-	-	-	-	-	-	-	-	
+-	snailgreenS-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	cheetahyellowF-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+Enter a command (Type help for details):
+move 4 4 right 2
+Enter a command (Type help for details):
+print
+-	-	-	-	-	-	-	-	
+-	snailgreenS-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	cheetahyellowF-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+Enter a command (Type help for details):
+move 4 6 left 2
+Enter a command (Type help for details):
+print
+-	-	-	-	-	-	-	-	
+-	snailgreenS-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	cheetahyellowF-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+Enter a command (Type help for details):
+create 6 6 flexible
+Input a name for the new piece:
+frog
+Input a colour for the new piece:
+red
+Created new game piece.
+Enter a command (Type help for details):
+print
+-	-	-	-	-	-	-	-	
+-	snailgreenS-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	cheetahyellowF-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	frogredSF-	
+-	-	-	-	-	-	-	-	
+Enter a command (Type help for details):
+move 6 6 up
+Enter a command (Type help for details):
+print
+-	-	-	-	-	-	-	-	
+-	snailgreenS-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	cheetahyellowF-	-	-	
+-	-	-	-	-	-	frogredSF-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+Enter a command (Type help for details):
+move 5 6 down
+Enter a command (Type help for details):
+print
+-	-	-	-	-	-	-	-	
+-	snailgreenS-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	cheetahyellowF-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	frogredSF-	
+-	-	-	-	-	-	-	-	
+Enter a command (Type help for details):
+create 5 2 fast flexible
+Input a name for the new piece:
+eagle
+Input a colour for the new piece:
+brown
+Created new game piece.
+Enter a command (Type help for details):
+print
+-	-	-	-	-	-	-	-	
+-	snailgreenS-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	cheetahyellowF-	-	-	
+-	-	eaglebrownFF-	-	-	-	-	
+-	-	-	-	-	-	frogredSF-	
+-	-	-	-	-	-	-	-	
+Enter a command (Type help for details):
+move 5 2 up 2
+Enter a command (Type help for details):
+print
+-	-	-	-	-	-	-	-	
+-	snailgreenS-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	eaglebrownFF-	-	-	-	-	
+-	-	-	-	cheetahyellowF-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	frogredSF-	
+-	-	-	-	-	-	-	-	
+Enter a command (Type help for details):
+move 3 2 down 2
+Enter a command (Type help for details):
+print
+-	-	-	-	-	-	-	-	
+-	snailgreenS-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	cheetahyellowF-	-	-	
+-	-	eaglebrownFF-	-	-	-	-	
+-	-	-	-	-	-	frogredSF-	
+-	-	-	-	-	-	-	-	
+Enter a command (Type help for details):
+move 5 2 up 4
+Enter a command (Type help for details):
+print
+-	-	-	-	-	-	-	-	
+-	snailgreenSeaglebrownFF-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	cheetahyellowF-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	frogredSF-	
+-	-	-	-	-	-	-	-	
+Enter a command (Type help for details):
+move 1 2 left
+Object already exist!
+Enter a command (Type help for details):
+move 4 4 left 5
+You are moving your object out of the board.
+Enter a command (Type help for details):
+help
+Possible commands are as follows:
+create location [fast][flexible]: Creates a new piece.
+move location direction [spaces]: Moves a piece.
+print: Displays the board.
+help: Displays help.
+exit: Exits the program.
+
+Enter a command (Type help for details):
+print
+-	-	-	-	-	-	-	-	
+-	snailgreenSeaglebrownFF-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	cheetahyellowF-	-	-	
+-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	frogredSF-	
+-	-	-	-	-	-	-	-	
+Enter a command (Type help for details):
+exit
+
+Process finished with exit code 0
