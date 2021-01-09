@@ -1,5 +1,5 @@
 # CreateAndMove-BoardGame
-This is a demo board game where you create a Piece object with its name and color. Then you simulate movement of those pieces within the borad. In the future this game can be extended to have a specific goals.
+This is a demo board game where you create a Piece object with its name and color. Then you can simulate movement of those pieces within the board. In the future this game can be extended to have a specific goals.
 
 # Game instructions (How to play)
 
